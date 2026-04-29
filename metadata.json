@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Bollywood Brawlers: Salman vs SRK",
+  "description": "An epic 2DR 2-player fighting game featuring Bollywood icons Salman Khan and Shah Rukh Khan with signature moves and dramatic voice lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "2D Fighting Engine",
+    "Local Multiplayer",
+    "Signature Special Moves"
+  ]
+}

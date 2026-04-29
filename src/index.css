@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Inter:wght@400;700&family=Metamorphic&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Bungee", cursive;
+  --font-special: "Metamorphic", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  user-select: none;
+}
+
